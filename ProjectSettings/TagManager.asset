@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - city
+  - ground
+  - bomb
+  - canons
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3253906987
+    locked: 0
+  - name: City
+    uniqueID: 3681317875
+    locked: 0
+  - name: Turrets
+    uniqueID: 1991347173
+    locked: 0
+  - name: Ammo
+    uniqueID: 3821765501
+    locked: 0
+  - name: Turrets_Front
+    uniqueID: 4194828601
+    locked: 0
